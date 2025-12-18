@@ -7,14 +7,6 @@
 
 ---
 
-## 🎮 Demo
-
-_Click the image below to watch a short gameplay demo_
-
-<a href="https://YOUR_YOUTUBE_LINK">
-  <img src="assets/demo/obstacle-dodge-demo-thumbnail.png" width="600" alt="Obstacle Dodge demo">
-</a>
-
 ## 📸 Screenshots
 
 <p align="center">
