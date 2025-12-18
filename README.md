@@ -15,16 +15,6 @@ _Click the image below to watch a short gameplay demo_
   <img src="assets/demo/obstacle-dodge-demo-thumbnail.png" width="600" alt="Obstacle Dodge demo">
 </a>
 
-## ▶️ Play Now
-
-<p align="center">
-  <a href="https://YOUR_PLAY_LINK">
-    <img src="assets/ui/play-button.png" alt="Play Obstacle Dodge" width="220">
-  </a>
-  <br>
-  <em>No download required · WebGL / Browser build</em>
-</p>
-
 ## 📸 Screenshots
 
 <p align="center">
