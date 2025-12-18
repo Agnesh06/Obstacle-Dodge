@@ -54,5 +54,5 @@ _Click the image below to watch a short gameplay demo_
 - **UI:** Unity UI (Canvas, TextmeshPro optional)  
 - **Build:** WebGL (playable in browser)
 
-## 📂 Project Structure (suggested)
+
 
